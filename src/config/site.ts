@@ -1,9 +1,9 @@
 ﻿export const site = {
   brand: "WELLBECKS",
-  phone: "+1 246 259 9636",
-  phoneHref: "+12462599636",
+  phone: "+1 (246) 235-3754",
+  phoneHref: "+12462353754",
   email: "peterarthur@live.com",
-  whatsappHref: "https://wa.me/12462599636",
+  whatsappHref: "https://wa.me/12462353754",
   delivery: {
     orderCutoff: "Order by 8PM for next-day delivery",
     fee: "$7 delivery / free over $60",

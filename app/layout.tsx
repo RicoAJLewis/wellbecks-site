@@ -73,7 +73,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               <Link href="/contact" className="hover:underline underline-offset-4">Contact</Link>
             </div>
             <div className="flex items-center gap-2">
-              <a href="tel:+12462599636" className="btn hidden sm:inline-flex">Call</a>
+              <a href="tel:+12462353754" className="btn hidden sm:inline-flex">Call</a>
               <Link href="/menu" className="btn btn-accent">Order Now</Link>
             </div>
           </nav>
@@ -89,7 +89,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               <div className="font-medium">Contact</div>
               <ul className="mt-2 space-y-1">
                 <li>Peter Arthur</li>
-                <li><a className="hover:underline" href="tel:+12462599636">(246) 259-9636</a></li>
+                <li><a className="hover:underline" href="tel:+12462353754">+1 (246) 235-3754</a></li>
                 <li><a className="hover:underline" href="mailto:peterarthur@live.com">peterarthur@live.com</a></li>
               </ul>
             </div>

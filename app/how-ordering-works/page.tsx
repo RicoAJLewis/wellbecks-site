@@ -16,7 +16,7 @@ export default function HowOrderingWorksPage() {
               <li>Use the juice code and quantity (e.g. G1 x2).</li>
               <li>Include bottle size: 118ml, 355ml, 475ml, 950ml.</li>
               <li>Send by 8PM for next‑day delivery.</li>
-              <li>Call: <a className="hover:underline" href="tel:+12462599636">{site.phone}</a></li>
+              <li>Call: <a className="hover:underline" href="tel:+12462353754">{site.phone}</a></li>
               <li>WhatsApp: <a className="hover:underline" href={site.whatsappHref}>Message us</a></li>
               <li>Email: <a className="hover:underline" href="mailto:peterarthur@live.com">{site.email}</a></li>
             </ul>
